@@ -1,0 +1,30 @@
+portfolio-website/
+|   .env
+|   app.py
+|   project_structure.txt
+|   ReadMe.md
+|   requirements.txt
+|
++---instance
+|       portfolio.db
+|
++---static
+|   +---css
+|   |       style.css
+|   |
+|   \---images
+|           certificate1.JPG
+|           certificate2.JPG
+|           certificate3.JPG
+|           certificate4.JPG
+|           project1.JPG
+|           project2.JPG
+|
++---templates
+|       about.html
+|       admin.html
+|       admin_login.html
+|       certificates.html
+|       contact.html
+|       index.html
+|       projects.html

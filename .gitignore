@@ -1,0 +1,25 @@
+# Ignore Python bytecode files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore virtual environment directory
+venv/
+
+# Ignore .env file containing sensitive information
+.env
+
+# Ignore SQLite databases (or any other DB files)
+*.sqlite
+*.db
+
+
+# SQLite database
+instance/
+
+# Mac-specific
+.DS_Store
+
+# Windows-specific
+Thumbs.db
